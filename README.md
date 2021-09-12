@@ -119,7 +119,7 @@ Dengan data yang udah kalian bersihkan dan proses sebelumnya, di tahap ini kalia
 Tools yang biasanya digunakan adalah Pandas 
 
 ### Modeling
-Ini adalah tahap yang kedengerannya paling keren karena kalian bakal melatih model machine learning dari data yang sudah kalian olah sedemikian rupa untuk melakukan prediksi fitur target. Model machine learning ini jenisnya ada banyak dan semuanya digunakan tergantung kasus atau soal yang kalian dapat. Contohnya decision tree biasa digunakan untuk klasifikasi, logistic regression digunakan untuk persoalan regresi.  
+Ini adalah tahap yang kedengerannya paling keren karena kalian bakal melatih model machine learning dari data yang sudah kalian olah sedemikian rupa untuk melakukan prediksi fitur target. Model machine learning ini jenisnya ada banyak dan semuanya digunakan tergantung kasus atau soal yang kalian dapat. Contohnya decision tree biasa digunakan untuk klasifikasi, linear regression digunakan untuk persoalan regresi.  
 
 ![](https://i.stack.imgur.com/3tHZF.png)
 
